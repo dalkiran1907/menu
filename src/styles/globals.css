@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text {
+    margin: 95px;
+    padding: 2rem;
+    border: 2px solid #000;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(110 231 183 );
+    color: white;
+  }
+  
